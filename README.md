@@ -23,10 +23,14 @@
 - Tips for IT students  
 
 📫 How to reach me:  
-- Email: phanvankhai18102005@gmail.com 
+- Email: phanvankhai18102005@gmail.com
+- Facebook: https://www.facebook.com/share/1C3iUfPAVN/?mibextid=wwXIfr
+- Zalo: 0366.308.220
+- TikTok: https://www.tiktok.com/@phan.vn.khii5?_t=ZS-8zEKImmtfdp&_r=1
+- Instagram: https://www.instagram.com/khaiphan7/?igsh=NmJndmRlaGxuejNr&utm_source=qr
+- Threads: https://www.threads.com/@khaiphan7?igshid=NTc4MTIwNjQ2YQ==
 
-😄 Pronouns: 
+😄 Pronouns: Panda
 
-⚡ Fun fact:  
-- I love solving coding challenges, exploring new tech, and playing strategy games in my free time!
+⚡ Fun fact: I love solving coding challenges, exploring new tech, and playing strategy games in my free time!
 
