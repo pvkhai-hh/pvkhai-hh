@@ -1,9 +1,4 @@
-## 👋 Hi there, I'm !
-
-
-**pvkhai-hh/pvkhai-hh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## 👋 Hi there, I'm Khai!
 
 🔭 I’m currently working on:  
 - Building small web applications and personal coding projects  
