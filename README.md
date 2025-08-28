@@ -28,11 +28,9 @@ Here are some ideas to get you started:
 - Tips for IT students  
 
 📫 How to reach me:  
-- Email: [email@example.com]  
-- LinkedIn: [linkedin.com/in/yourname]  
-- GitHub: [github.com/yourusername]  
+- Email: phanvankhai18102005@gmail.com 
 
-😄 Pronouns: He/Him (or your preferred pronouns)  
+😄 Pronouns: 
 
 ⚡ Fun fact:  
 - I love solving coding challenges, exploring new tech, and playing strategy games in my free time!
