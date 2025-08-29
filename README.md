@@ -1,5 +1,5 @@
 <!-- Banner đẹp mắt -->
-<h1 align="center">Hi 👋, I'm Khải</h1>
+<h1 align="center">Hi 👋, I'm Khai</h1>
 <h3 align="center">🚀 A passionate IT Student & Future Software Developer 🌏</h3>
 
 <!-- Ảnh GIF -->
@@ -40,6 +40,19 @@
   <img src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C#"/>
   <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
 </p>
+
+---
+
+### 📈 My Coding Frequency (Giả lập)
+
+| Language | Usage |
+|----------|-------|
+| 🐍 Python | <img src="https://progress-bar.dev/40/?title=40%25&width=200" /> |
+| 🔹 C      | <img src="https://progress-bar.dev/20/?title=20%25&width=200" /> |
+| ➕ C++    | <img src="https://progress-bar.dev/15/?title=15%25&width=200" /> |
+| ☕ Java   | <img src="https://progress-bar.dev/10/?title=10%25&width=200" /> |
+| 🗄️ SQL    | <img src="https://progress-bar.dev/10/?title=10%25&width=200" /> |
+| 🎯 C#     | <img src="https://progress-bar.dev/5/?title=5%25&width=200" /> |
 
 ---
 
