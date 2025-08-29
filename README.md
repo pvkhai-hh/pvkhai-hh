@@ -1,6 +1,6 @@
 <!-- Banner đẹp mắt -->
 <h1 align="center">Hi 👋, I'm Khải</h1>
-<h3 align="center">🚀 A passionate Web Developer & Tech Enthusiast from Việt Nam 🌏</h3>
+<h3 align="center">🚀 A passionate IT Student & Future Software Developer 🌏</h3>
 
 <!-- Ảnh GIF -->
 <p align="center">
@@ -10,11 +10,11 @@
 ---
 
 ### 🔥 About Me  
-- 🔭 I’m currently working on **Web Development Projects**  
-- 🌱 I’m currently learning **React, Node.js, and Cloud Deployment**  
-- 👯 I’m looking to collaborate on **Open Source Projects**  
-- 💬 Ask me about **Frontend, JavaScript, and UI/UX**  
-- ⚡ Fun fact: I love 🎨 designing beautiful UIs and ☕ coding with coffee!
+- 🔭 I’m currently working on **Coding projects at school**  
+- 🌱 I’m currently learning **Algorithms, Data Structures, and Software Development**  
+- 👯 I’m looking to collaborate on **Interesting coding projects**  
+- 💬 Ask me about **Python, C, C++, Java, SQL, and C#**  
+- ⚡ Fun fact: I enjoy coding with ☕ coffee and exploring 💡 new tech!
 
 ---
 
@@ -32,14 +32,13 @@
 
 ### 🛠️ Languages and Tools
 <p align="left"> 
-  <img src="https://img.icons8.com/color/48/html-5.png" alt="html5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="javascript"/>
-  <img src="https://img.icons8.com/color/48/react-native.png" alt="react"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
-  <img src="https://img.icons8.com/color/48/python.png" alt="python"/>
-  <img src="https://img.icons8.com/color/48/mysql.png" alt="mysql"/>
-  <img src="https://img.icons8.com/color/48/git.png" alt="git"/>
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="C#"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
 </p>
 
 ---
@@ -65,4 +64,4 @@
 
 ---
 
-⭐️ From [Khải](https://github.com/yourusername)
+⭐️ From [Khải](https://github.com/pvkhai-hh)
