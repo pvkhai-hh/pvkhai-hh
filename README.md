@@ -43,19 +43,6 @@
 
 ---
 
-### 📈 My Coding Frequency (Giả lập)
-
-| Language | Usage |
-|----------|-------|
-| 🐍 Python | <img src="https://progress-bar.dev/40/?title=40%25&width=200" /> |
-| 🔹 C      | <img src="https://progress-bar.dev/20/?title=20%25&width=200" /> |
-| ➕ C++    | <img src="https://progress-bar.dev/15/?title=15%25&width=200" /> |
-| ☕ Java   | <img src="https://progress-bar.dev/10/?title=10%25&width=200" /> |
-| 🗄️ SQL    | <img src="https://progress-bar.dev/10/?title=10%25&width=200" /> |
-| 🎯 C#     | <img src="https://progress-bar.dev/5/?title=5%25&width=200" /> |
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
